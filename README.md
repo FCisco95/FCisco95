@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fcisco95&label=Profile%20views&color=0e75b6&style=flat" alt="fcisco95" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently working on the certification **AWS Certified Solutions Architect – Associate**
 
 - 📫 How to reach me **joao_vieira25@hotmail.com**
 
